@@ -74,6 +74,94 @@
       "balance": 49474,
       "createdAt": "2023-12-07T04:39:38.383Z",
       "modifiedAt": "2024-03-07T00:07:36.510Z"
+    },
+    {
+      "id": "dIRWiSyJa",
+      "uuid": "4328e21a-e1d9-45e8-8dd0-f16d83292237",
+      "firstName": "Fonsick",
+      "lastName": "Tester",
+      "username": "Fonsick",
+      "password": "$2a$10$sdd8X8Eyvsz7ENY/uxw3d.UNRCVf8odr0dMUmmLWvEj156kAWUArK",
+      "balance": 0,
+      "createdAt": "2025-08-15T02:05:22.597Z",
+      "modifiedAt": "2025-08-15T02:05:22.597Z"
+    },
+    {
+      "id": "CfLzHdurr",
+      "uuid": "3c1adab4-f2dc-4545-8cdd-e6410a50459b",
+      "firstName": "Primary",
+      "lastName": "Tester",
+      "username": "Fonsick",
+      "password": "$2a$10$b4gnHQH3nk9KA6wPe/17YuSosDeVXFEbKqfXSJF/05vQ83fM2SWiu",
+      "balance": 0,
+      "createdAt": "2025-08-15T02:38:42.226Z",
+      "modifiedAt": "2025-08-15T02:38:42.226Z"
+    },
+    {
+      "id": "V4DN1bNQt",
+      "uuid": "77763526-d28e-4e01-bc4b-13eca557d528",
+      "firstName": "Primary",
+      "lastName": "Tester",
+      "username": "Fonsick",
+      "password": "$2a$10$yLXiFeufVEc5wrdCnOy8AeqN5/AAmBfsHMuGgiVePlhm/RPvEpPWG",
+      "balance": 0,
+      "createdAt": "2025-08-15T02:39:44.873Z",
+      "modifiedAt": "2025-08-15T02:39:44.873Z"
+    },
+    {
+      "id": "8qrEHm43G",
+      "uuid": "856311c0-5757-4668-bc26-e8eda86f7ead",
+      "firstName": "Primary",
+      "lastName": "Tester",
+      "username": "Fonsick",
+      "password": "$2a$10$oo4H.ZIGEdKTO9JBNbasuePZy.Jwfi7AxiboMih.K9rzoGZldkUt.",
+      "balance": 0,
+      "createdAt": "2025-08-15T02:54:55.952Z",
+      "modifiedAt": "2025-08-15T02:54:55.952Z"
+    },
+    {
+      "id": "MV7SJaKO0",
+      "uuid": "263798f1-cbb3-4c34-89f7-1bef93a0daf6",
+      "firstName": "Primary",
+      "lastName": "Tester",
+      "username": "Fonsick",
+      "password": "$2a$10$20.NaSpW1jLbcjb4QNpSDup7dTUUfUpwEj4aWYL4rytByy/HMl9GG",
+      "balance": 0,
+      "createdAt": "2025-08-15T02:55:38.253Z",
+      "modifiedAt": "2025-08-15T02:55:38.253Z"
+    },
+    {
+      "id": "kh_pFFqVz",
+      "uuid": "95ab5f9d-8c32-4397-b7a4-7b9ccbcbb70d",
+      "firstName": "Primary",
+      "lastName": "Tester",
+      "username": "Fonsick",
+      "password": "$2a$10$S7w553TQSDKXVkhZ/W2ysuis5a6IaANP33XLcRB5WHfqiM4Kw/eEC",
+      "balance": 0,
+      "createdAt": "2025-08-15T02:56:13.941Z",
+      "modifiedAt": "2025-08-15T02:56:13.941Z"
+    },
+    {
+      "id": "_cSmjgK-1",
+      "uuid": "57298a87-532d-4383-a108-4da87c13625d",
+      "firstName": "Primary",
+      "lastName": "Tester",
+      "username": "Fonsick",
+      "password": "$2a$10$xXN0A12GCrxdmjrHUGO/MO0osye2K9J57VOezmUEJRp72qPjHkD.m",
+      "balance": 0,
+      "createdAt": "2025-08-15T02:56:55.465Z",
+      "modifiedAt": "2025-08-15T02:56:55.465Z"
+    },
+    {
+      "id": "0g7bJVevV",
+      "uuid": "4b49f5d5-07c2-46bf-97ac-397cb2948184",
+      "firstName": "Primary",
+      "lastName": "Tester",
+      "username": "Fonsick",
+      "password": "$2a$10$N4MeMVVhdRmLNtjqJai.Oe/NWHtnmkoKNEhpowxfxojb8px4Ij/dG",
+      "balance": 0,
+      "createdAt": "2025-08-15T02:57:48.408Z",
+      "modifiedAt": "2025-08-15T02:57:48.408Z"
     }
   ],
   "contacts": [
