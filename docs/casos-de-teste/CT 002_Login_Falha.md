@@ -1,4 +1,4 @@
-#CT 002: Login com credenciais inválidas
+# CT 002: Login com credenciais inválidas
 
 **Descrição:** Garantir que o sistema exiba uma mensagem de erro ao tentar fazer login com credenciais inválidas (username ou password incorretos).
 

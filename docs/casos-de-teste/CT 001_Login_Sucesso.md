@@ -1,4 +1,4 @@
-#CT 001 - Login com sucesso
+# CT 001 - Login com sucesso
 
 **Descrição:** Verificar se é possível fazer login com um usuário válido, inserindo as informações corretas.
 
@@ -22,7 +22,7 @@
 **Status:**
 - Passou.
 
-##Evidências:
+# Evidências:
 
 **Tela inicial:**
 ![Tela de login](./Imagens/tela-login.png)
